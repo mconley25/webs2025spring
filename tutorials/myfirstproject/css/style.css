@@ -1,4 +1,11 @@
 
+body {
+    font-family: sans-serif;
+    color: #1b281b; 
+
+}
+
+
 header {
     text-align: center;
 }
@@ -6,12 +13,17 @@ header {
 h1 {
    color: #4676a9;
    text-align: center;
-   font-family; gill sans; 
+   font-family; sans-serif; 
 
 }
 
+
 h2 {
     color: #cb721c;
+}
+
+a {
+    color:red;
 }
 
 footer {

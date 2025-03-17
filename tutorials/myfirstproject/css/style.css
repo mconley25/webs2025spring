@@ -46,22 +46,20 @@ section {
     margin-block: 100px; 
 }
 
-.accent {
-    color: red; 
+.teal-text {
+    color: #087a98; 
 }
 
-#first-paragraph {
-    color: green;
-    font-size: 1.5rem;  
+.teal-bg {
+    color: #ffffff; 
+    padding: 20px; 
+    border: #0b4a5a solid 10px; 
+    background-color: #087a98; 
 }
 
 footer {
-    padding: 100px; 
+   
     text-align: center; 
-    background-color: #22466c; 
-    color: #ffffff;
-    border-width: 20px;
-    border-style: solid;
-    border-color: #6e84cf; 
+     
 }
 

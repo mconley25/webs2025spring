@@ -32,6 +32,15 @@ h1 {
 
 h2 {
     color: #cb721c;
+    text-align: left;
+}
+
+h3 {
+    text-align: left;
+}
+
+p {
+    text-align: left;
 }
 
 a {
@@ -56,6 +65,22 @@ section {
     border: #0b4a5a solid 10px; 
     background-color: #087a98; 
 }
+
+a {
+    color: #2b930b; 
+}
+
+a:hover, a:focus-visible {
+    color: #7ee85e; 
+}
+
+.climber-bg {
+    background-image: url ("../images/simple-steps.jpg")
+    padding: 24px;
+    border: #0b4a5a solid 10 px; 
+}
+
+
 
 footer {
    

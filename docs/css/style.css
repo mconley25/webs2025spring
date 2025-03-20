@@ -1,0 +1,39 @@
+h1 {
+    color: #fc8eac;
+}
+
+h2 {
+    color: #fc8eac;
+}
+
+/***** Main menu styling *****/
+.main-nav {
+    background-color: #eee; /* light gray */
+  }
+
+  .main-nav a {
+    color: #fc8eac;         /* pink */
+  }
+
+  .main-nav ul {
+    list-style-type: none;  /* Hide the bullets */
+    display: flex;          /* Arrange horizontally, not vertically */
+    flex-wrap: wrap;
+  }
+
+  .main-nav li a {
+    display: block;
+    padding: 1em 2em;           /* Add a little space around each link */
+    text-decoration: none;
+  }
+
+  .main-nav .active, .main-nav a:hover, .main-nav a:focus   {
+    background-color: #fc8eac;  /* dark green, same as link color */
+    color: #eee;            /* light gray, same as navbar */
+  }
+
+  .main-nav a:hover, .main-nav a:focus {
+    text-decoration: underline;
+  }
+
+/* etc */

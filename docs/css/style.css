@@ -6,6 +6,10 @@ h2 {
     color: #fc8eac;
 }
 
+h3 {
+  color: #fc8eac;
+}
+
 /***** Main menu styling *****/
 .main-nav {
     background-color: #eee; /* light gray */
@@ -28,7 +32,7 @@ h2 {
   }
 
   .main-nav .active, .main-nav a:hover, .main-nav a:focus   {
-    background-color: #fc8eac;  /* dark green, same as link color */
+    background-color: #fc8eac;  /* light pink, same as link color */
     color: #eee;            /* light gray, same as navbar */
   }
 

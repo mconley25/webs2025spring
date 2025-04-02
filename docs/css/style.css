@@ -1,6 +1,6 @@
 
 body {
-  font-family: sans-serif; 
+  font-family: Georgia, 'Times New Roman', Times, serif;
   background-color: #ebdfd6;
   font-size: 1rem;
   line-height: 1.6;
@@ -20,7 +20,8 @@ header {
 h1 {
     color: #e75480;
     text-align: center;
-   line-height: 1.1;  
+    line-height: 1.1;  
+    font-size: 3.5rem;
 }
 
 h2 {
@@ -32,7 +33,7 @@ h2 {
 
 h3 {
   color: #e75480;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 p {
@@ -81,6 +82,12 @@ footer {
   text-align: center;
   background-color: #e75480;
   border: 10px pink solid; 
+}
+
+figcaption {
+  text-align: center;
+  font-size: .7rem;
+  color:#5c4033
 }
 
 .first-bullet {

@@ -10,4 +10,4 @@ Oetelaar van, Max. "And Breathe Neon Sign On Tree." UnSplash, 28 Apr. 2018, http
 
 Four Sisters Coffee Co. Logo-made by Maddie Conley on Canva. 
 
-Image of four sisters-personal image from Maddie Conley. 
+Image of four sisters-image taken by Shelby Woodward.

@@ -8,3 +8,6 @@ Fakhrudin, Fahmi. "Person Making Latte Art." UnSplash, 2 Nov. 2018, https://unsp
 
 Oetelaar van, Max. "And Breathe Neon Sign On Tree." UnSplash, 28 Apr. 2018, https://unsplash.com/photos/and-breathe-neon-sign-on-tre-buymYm3RQ3U. 
 
+Four Sisters Coffee Co. Logo-made by Maddie Conley on Canva. 
+
+Image of Four Sisters-personal image from Maddie Conley. 

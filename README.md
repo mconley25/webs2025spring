@@ -10,6 +10,4 @@ No matter what we were going through, good or bad, there was always one question
 
 The idea of this coffee shop originated from a newsletter I made last spring in my Integrating Writing and Design class. I am excited to create this website to showcase my unwavering bond with my sisters and our love for coffee! 
 
-**Where to Find Website for Peer Review:**
 
-To find my website, visit my docs folder, then click on index.html. 

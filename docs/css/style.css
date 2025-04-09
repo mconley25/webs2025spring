@@ -62,7 +62,7 @@ header {
   display: flex;
   margin: 0;
   padding: 0;
-  gap: 50px; 
+  gap: 37.5px; 
 }
 
 .primary-navigation a {
@@ -75,6 +75,7 @@ header {
 .primary-navigation a:focus-visible
 {
   color: #e75480;
+  
 }
 
 footer {
@@ -100,3 +101,4 @@ figcaption {
   margin-left: auto;
   margin-right: auto;
 }
+

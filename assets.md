@@ -1,5 +1,7 @@
 Below is a list of my assets included in my website.
 
+Clarke, Sandie. "Pink Coffee Sign and Espresso Machine." UnSplash, 21 Apr. 2022, https://unsplash.com/photos/a-coffee-machine-sitting-on-top-of-a-counter-4uHlP1v82rU. 
+
 Chepinska, Anastasiia. "Continuous Background of Fresh Arabica Coffee Beans." UnSplash, 5 Feb. 2020, https://unsplash.com/photos/brown-coffee-beans-on-brown-wooden-table-lcfH0p6emhw. 
 
 Content Pixie. "A Morning Coffee and a Journal." UnSplash, 23 Jun. 2020, https://unsplash.com/photos/white-ceramic-cup-with-saucer-on-white-table-VcavDJxm_U8. 

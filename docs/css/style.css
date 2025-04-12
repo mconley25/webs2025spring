@@ -62,7 +62,8 @@ header {
   display: flex;
   margin: 0;
   padding: 0;
-  gap: 37.5px; 
+  gap: 48.5px; 
+  font-size: 1.35rem;
 }
 
 .primary-navigation a {
@@ -100,5 +101,11 @@ figcaption {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.two-column-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 100px;
 }
  
